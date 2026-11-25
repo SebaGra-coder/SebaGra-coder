@@ -32,11 +32,6 @@ Piattaforma web per la gestione dell'inventario farmaceutico domestico, con back
 
 Tecnologie: Next.js, React, Node.js, PostgreSQL, Prisma, Docker.
 
-### SkillMatch
-Piattaforma web di recruiting per facilitare l'incontro tra candidati e aziende, gestendo candidature, test, colloqui e notifiche.
-
-Tecnologie: PHP, Strapi CMS, API REST, SQLite.
-
 ### PDF Parser – Banca dati Polizia di Stato
 Automazione Python per l'estrazione e l'organizzazione di quesiti da documenti PDF strutturati.
 
