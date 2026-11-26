@@ -1,52 +1,83 @@
-# Ciao, sono Sebastiano! 👋
+# Hi, I'm Sebastiano 👋
 
-### Junior Software Developer | Python Automation | AI Integration | Full-Stack Development
+### Junior Software Developer | Full-Stack Development · Python Automation · AI Integration · IoT
 
-Sono uno studente di Informatica e sviluppatore software interessato alla realizzazione di applicazioni, automazioni e integrazioni tra sistemi.
+I'm an Informatics student and software developer interested in building practical software solutions, backend systems, web applications, and process automation.
 
-Mi piace trasformare esigenze concrete in soluzioni software funzionanti, lavorando dalla raccolta dei requisiti fino allo sviluppo, alla verifica e alla documentazione.
+I enjoy turning real-world requirements into working applications, from data processing and backend development to frontend implementation and system integration.
 
-Attualmente sono particolarmente interessato a:
-- Automazione di processi aziendali con Python.
-- Integrazione di API e servizi basati su AI.
-- Sviluppo backend e applicazioni web full-stack.
-- Elaborazione automatizzata di documenti e dati.
-- Integrazione tra software e dispositivi IoT.
+My main areas of interest are:
+- Python scripting and process automation
+- Backend development and REST API integration
+- Full-stack web application development
+- Document processing, OCR, and data extraction
+- AI-powered applications and IoT integration
 
-## 🛠️ Tecnologie
+## 🛠️ Technical Skills
 
-**Linguaggi:** Python, JavaScript, TypeScript, Java, C, C++, C#
+**Languages:** Python, JavaScript, TypeScript, Java, C, C++, C#
 
-**Web:** React, Next.js, Node.js, HTML, CSS, Tailwind CSS
+**Frontend:** React, Next.js, HTML, CSS, Tailwind CSS
 
-**Database:** PostgreSQL, MySQL, SQLite, Prisma ORM
+**Backend:** Node.js, Python, Flask, REST APIs
 
-**Strumenti:** Git, GitHub, Docker, Microsoft Azure
+**Databases:** PostgreSQL, MySQL, SQLite, Prisma ORM
 
-**Altro:** Unity, Blender, ESP32, API REST
+**Tools & Platforms:** Git, GitHub, Docker, Linux, Microsoft Azure
 
-## 🚀 Progetti principali
+**Other:** Unity, Blender, ESP32
 
-### MediGuard
-Piattaforma web per la gestione dell'inventario farmaceutico domestico, con backend, database relazionale, notifiche e integrazione IoT.
+## 🚀 Featured Projects
 
-Tecnologie: Next.js, React, Node.js, PostgreSQL, Prisma, Docker.
+### MediGuard – Pharmaceutical Inventory Management Platform
 
-### PDF Parser – Banca dati Polizia di Stato
-Automazione Python per l'estrazione e l'organizzazione di quesiti da documenti PDF strutturati.
+A full-stack web application for managing medication inventories, therapy schedules, expiration dates, caregiver relationships, and notifications, with ESP32-based IoT integration.
 
-Tecnologie: Python, PDF parsing, automazione dei dati.
+**My Contribution**
 
-### LOGOS – Il Peso delle Parole
-Videogioco action 3D isometrico sviluppato individualmente, dalla progettazione alla programmazione e modellazione degli asset.
+I played a leading role in the design, development, and implementation of MediGuard, contributing to most of the core application components and coordinating the integration of the overall system.
 
-Tecnologie: Unity 6, C#, Blender.
+My work primarily involved:
 
-## 📫 Contatti
+- **Full-stack development:** implementation of major frontend features and backend functionality using Next.js, React, and API Routes.
+- **Backend architecture and API integration:** development of application endpoints, business logic, and integration of modules across the system.
+- **Database management:** design and integration of the PostgreSQL database through Prisma ORM.
+- **Infrastructure and deployment:** configuration of Docker, Docker Compose, and the Azure deployment environment.
+- **System integration:** integration of independently developed components, ensuring consistency across frontend, backend, database, and IoT modules.
+- **Technical coordination:** supervision of development activities and coordination of implementation tasks across the team.
+
+I was responsible for a substantial part of the platform's implementation, working across multiple layers of the application and ensuring that its core components operated as an integrated system.
+
+**Technologies:** Next.js, React, PostgreSQL, Prisma, Docker, JWT, Web Push, ESP32.
+
+[View repository](https://github.com/SebaGra-coder/MediGuard-Full-Stack-Pharmaceutical-Inventory-Management-Platform)
+
+### Banca dati Polizia di Stato – OCR & Quiz Platform
+
+A project combining a Python OCR pipeline for extracting questions from PDF documents with a mobile-friendly PHP/JavaScript quiz application.
+
+**My Contribution**
+
+I independently designed and implemented the core system, covering the entire workflow from document processing to the final web-based quiz application.
+
+My work included:
+
+- **PDF processing and OCR:** development of a Python pipeline using OpenCV and Tesseract to extract structured questions and answers from PDF documents.
+- **Data processing:** implementation of text-cleaning, question segmentation, and answer extraction logic.
+- **Database management:** design and population of the SQLite database, followed by preparation of the data for MySQL.
+- **Web application development:** implementation of the PHP backend endpoint and JavaScript frontend for generating and managing interactive quizzes.
+- **User experience:** development of a responsive interface with randomized questions, answer selection, navigation, progress tracking, and final result evaluation.
+- **Deployment:** preparation and publication of the application on Altervista.
+
+The project involved building a complete workflow that connects automated document extraction, structured data storage, and an interactive web application.
+
+**Technologies:** Python, OpenCV, Tesseract OCR, SQLite, PHP, MySQL, JavaScript, Bootstrap.
+
+[View repository](https://github.com/SebaGra-coder/Banca-dati-Polizia-di-Stato)
+
+## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/sebastiano-gravili-977596263/
 - GitHub: https://github.com/SebaGra-coder
 
----
-
-Disponibile a collaborazioni tecniche, sviluppo software e progetti di automazione.
+Open to paid technical collaborations, software development, and automation projects.
